@@ -8,14 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f2ec803f487c20cf",
+            "id": "f7017034fa0d8c59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Settimana 1.md",
+                "file": "Corso ux/Settimana 1.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Settimana 1.md",
+                "file": "Corso ux/Settimana 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Settimana 1.md",
+                "file": "Corso ux/Settimana 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Settimana 1.md"
+                "file": "Corso ux/Settimana 1.md"
               }
             }
           }
@@ -136,6 +136,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f2ec803f487c20cf",
-  "lastOpenFiles": []
+  "active": "ee5e5bea1f76aaff",
+  "lastOpenFiles": [
+    "Corso ux/Settimana 1.md",
+    "Settimana 1.md"
+  ]
 }

@@ -15,7 +15,7 @@
               "state": {
                 "file": "Corso ux/Settimana 1.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -128,15 +128,23 @@
                 "file": "Corso ux/Settimana 1.md"
               }
             }
+          },
+          {
+            "id": "7e8cdd27364a6ba1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "ee5e5bea1f76aaff",
+  "active": "f7017034fa0d8c59",
   "lastOpenFiles": [
     "Corso ux/Settimana 1.md",
     "Settimana 1.md"
